@@ -17,8 +17,8 @@
 
 <h3 align="right">Connect with me</h3>
 <p align="right">
-<a href="https://linkedin.com/in/ardakaymaz" target="left"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardakaymaz" height="20" width="20" /></a>
-<a href="https://kaggle.com/ardakaymaz" target="left"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ardakaymaz" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/ardakaymaz" target="center"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardakaymaz" height="20" width="20" /></a>
+<a href="https://kaggle.com/ardakaymaz" target="center"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ardakaymaz" height="20" width="20" /></a>
 </p>
 
 <picture>
