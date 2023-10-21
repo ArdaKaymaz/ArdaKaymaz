@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- ⚡ Python **NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib**
+- ⚡ Python **NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, SciPy**
 
 - ⚡ SAS **Base SAS, SAS/STAT, SAS/GRAPH**
 
