@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardakaymaz&label=Profile%20views&color=0e75b6&style=plastic" alt="ardakaymaz" /> </p>
 
-- 💻 I'm **Data Scientist** and **Data Analyst** for **4+ years**
+- 💻 I'm **Data Scientist** and **Data Analyst** with **4+ years of experience**
 
 - ⭐ Co-Founder of **Data Jungle 🌴** (<a href="url">[LinkedIn](https://www.linkedin.com/company/data-jungle-tr/)</a>)
 
