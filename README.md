@@ -7,7 +7,7 @@
 
 - ⭐ Co-Founder of **Data Jungle 🌴** (<a href="url">[LinkedIn](https://www.linkedin.com/company/data-jungle-tr/)</a>)
 
-- ⚡ Python **NumPy, Pandas, SciKit-Learn, TensorFlow, PyTorch, Seaborn, Statsmodels, Matplotlib and SciPy**
+- ⚡ Python programming
 
 - 💪🏻 I'm specialised in **Machine Learning 🦾, Deep Learning 🧠, Time-Series 📈, Statistics 📊**
 
