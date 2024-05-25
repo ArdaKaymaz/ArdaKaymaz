@@ -9,7 +9,7 @@
 
 - ⚡ Python programming
 
-- 💪🏻 I'm specialised in **Machine Learning 🦾, Deep Learning 🧠, Time-Series 📈, Statistics 📊**
+- 💪🏻 I'm specialised in **Machine Learning 🦾, Deep Learning 🧠, Time-Series 📈, Statistics 📊 and Big Data⭐**
 
 - ⚡ SAS **Base SAS, SAS/STAT, SAS/GRAPH**
 
