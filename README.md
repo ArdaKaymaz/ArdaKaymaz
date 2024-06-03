@@ -25,7 +25,7 @@
 ## Apache vs The Fraudster 🕵🏻‍♀️⚡
   • The project aims to develop a fraud detection model with big data technologies such as Apache.<br>
   • The project involves utilizing **Apache Hadoop**, **Apache Hive** and **Apache Spark**.<br>
-  • The project was successfully completed with recall of *78.8%** and precision of **90.0%**.<br>
+  • The project was successfully completed with recall of **78.8%** and precision of **90.0%**.<br>
 
 ## Scaling, Depth, and Epochs: A Model Comparison Study 📊
   • The study aims to bring a deep understanding about artificial neural networks’ training and prediction process.<br>
