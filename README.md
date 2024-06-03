@@ -19,27 +19,27 @@
 
 ## Cat-Dog Classifier App 🐱🐶 (<a href="https://catdogclassifierapp.streamlit.app/" target="_blank">App Link</a>)
   • The project aims to develop an image processing model with pre-trained models named MobileNet, VGG16 and ResNet50.<br>
-  • The project involves utilizing image processing, Mlflow, fine-tuning, TensorFlow, Keras and model deployment.<br>
-  • The project was successfully completed with an accuracy of 97.14%.<br>
+  • The project involves utilizing **image processing**, **Mlflow**, **fine-tuning**, **TensorFlow**, **Keras** and **Streamlit** for rapid prototyping and deployment.<br>
+  • The project was successfully completed with an accuracy of **97.14%**.<br>
 
 ## Apache vs The Fraudster 🕵🏻‍♀️⚡
   • The project aims to develop a fraud detection model with big data technologies such as Apache.<br>
-  • The project involves utilizing Apache Hadoop, Apache Hive and Apache Spark.<br>
-  • The project was successfully completed with recall of 78.8% and precision of 90.0%.<br>
+  • The project involves utilizing **Apache Hadoop**, **Apache Hive** and **Apache Spark**.<br>
+  • The project was successfully completed with recall of *78.8%** and precision of **90.0%**.<br>
 
 ## Scaling, Depth, and Epochs: A Model Comparison Study 📊
   • The study aims to bring a deep understanding about artificial neural networks’ training and prediction process.<br>
-  • The study involves utilizing TensorFlow and SciKit-Learn.<br>
-  • The study was resulted in a 1450% lower MAE value and in a 182% lower model weight variation.<br>
+  • The study involves utilizing **TensorFlow** and **SciKit-Learn**.<br>
+  • The study was resulted in a **1450%** lower MAE value and in a **182%** lower model weight variation.<br>
 
 ## Enefit - Predict Energy Behavior of Prosumers (Ongoing) 🍀💡
   • The project aims to address Enefit’s energy production and consumption forecast problem.<br>
-  • The project involves utilizing Apache Hadoop, Apache Spark, Docker, Kubernetes, Flask and auto-regressive time-series forecasting.<br>
+  • The project involves utilizing **Apache Hadoop**, **Apache Spark**, **Docker**, **Kubernetes**, **Flask** and **auto-regressive time-series forecasting**.<br>
 
 ## Factors Affecting Survivability In Japanese Quail (Coturnix coturnix Japonica) 🐥❤
   • The study aims to develop statistical risk models to predict survivability and adaptability traits, life-span forecasting, estimating the effect of genetic and environmental factors, and estimating genetic parameters.<br>
-  • The study involves utilizing hypothesis testing, auto-regressive time-series forecasting and statistical learning models.<br>
-  • The study has provided insights into the survival abilities of more than 64,000 species.
+  • The study involves utilizing **hypothesis testing**, **auto-regressive time-series forecasting** and **statistical learning models**.<br>
+  • The study has provided insights into the survival abilities of more than **64,000** species.
 
 # 💻 Tech Stack:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
