@@ -15,6 +15,11 @@
 
 - 📫 How to reach me **kymzarda@gmail.com**
 
+<h3 align="right">Connect with me</h3>
+<p align="right">
+<a href="https://linkedin.com/in/ardakaymaz" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardakaymaz" height="20" width="20" /></a>
+</p>
+
 # 🧾 Projects
 
 ## Cat-Dog Classifier App 🐱🐶 (<a href="https://catdogclassifierapp.streamlit.app/" target="_blank">App Link</a>)
@@ -57,12 +62,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) 
-
-<h3 align="right">Connect with me</h3>
-<p align="right">
-<a href="https://kaggle.com/ardakaymaz" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ardakaymaz" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/ardakaymaz" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardakaymaz" height="20" width="20" /></a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake-dark.svg">
