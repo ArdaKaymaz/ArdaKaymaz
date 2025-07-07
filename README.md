@@ -1,70 +1,116 @@
 <h1 align="center">Hi 👋, I'm Arda Kaymaz</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center">🚀 Data Scientist | ML/DL Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardakaymaz&label=Profile%20views&color=0e75b6&style=plastic" alt="ardakaymaz" /> </p>
-
-- 💻 I'm a **Data Scientist** and a **Data Analyst** with **4+ years of experience** and a **Master of Science** degree.
-
-- ⭐ Co-Founder of **Data Jungle 🌴** (<a href="url">[LinkedIn](https://www.linkedin.com/company/data-jungle-tr/)</a>)
-
-- ⚡ Python programming
-
-- 💪🏻 I'm specialised in **Artificial Intelligence 🤖, Machine Learning 🦾, Deep Learning 🧠, Time-Series 🕒📈, Statistics 📊 and Big Data⭐**
-
-- ⚡ SAS **Base SAS, SAS/STAT, SAS/GRAPH**
-
-- 📫 How to reach me **kymzarda@gmail.com**
-
-<h3 align="right">Connect with me</h3>
-<p align="right">
-<a href="https://linkedin.com/in/ardakaymaz" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardakaymaz" height="20" width="20" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ardakaymaz&label=Profile%20views&color=0e75b6&style=plastic" alt="ardakaymaz" />
 </p>
 
-# 🧾 Projects
+- 🔬 I’m a **Data Scientist** with **5+ years of experience** in data science, data analytics, statistical modeling, and AI.
+- 🎓 MSc in Animal Science with a minor in **Quantitative Genetics & Data Analytics**.
+- 💼 Former Data Scientist at **Miuul** — worked on fine-tuning, RAG, and LLM-powered assistants.
+- 🌴 Co-founder of **Data Jungle** — building open-source ML & GenAI projects with a thriving community.
+- 🧠 Skilled in **Machine Learning, Deep Learning, NLP, GenAI, Time Series**, and **Big Data**.
+- ☁️ Proficient in tools like **TensorFlow, PyTorch, Scikit-learn, Apache Hadoop, Hive, Spark, Linux, Docker, Azure**.
+- 📬 Reach me at **kymzarda@gmail.com**
+- Check out my personal portfolio website **at https://ardakaymaz.github.io/**
 
-## Cat-Dog Classifier App 🐱🐶 (<a href="https://catdogclassifierapp.streamlit.app/" target="_blank">App Link</a>)
-  • The project aims to develop an image processing model with pre-trained models named MobileNet, VGG16 and ResNet50.<br>
-  • The project involves utilizing **image processing**, **Mlflow**, **fine-tuning**, **TensorFlow**, **Keras** and **Streamlit** for rapid prototyping and deployment.<br>
-  • The project was successfully completed with an accuracy of **97.14%**.<br>
+---
 
-## Apache vs The Fraudster 🕵🏻‍♀️⚡
-  • The project aims to develop a fraud detection model with big data technologies such as Apache.<br>
-  • The project involves utilizing **Apache Hadoop**, **Apache Hive** and **Apache Spark**.<br>
-  • The project was successfully completed with recall of **78.8%** and precision of **90.0%**.<br>
+## 📌 Featured Projects
 
-## Scaling, Depth, and Epochs: A Model Comparison Study 📊
-  • The study aims to bring a deep understanding about artificial neural networks’ training and prediction process.<br>
-  • The study involves utilizing **TensorFlow** and **SciKit-Learn**.<br>
-  • The study was resulted in a **1450%** lower MAE value and in a **182%** lower model weight variation.<br>
+### 🎓 Cite Me if You Can – Semantic Search and Summarization App
+An academic assistant powered by RAG and Gemini 2.5 Flash LLM.
+- 🧠 Built with **FastAPI**, **SPECTER2 embeddings**, and **Streamlit** UI.
+- 📄 Retrieves relevant chunks from uploaded papers and summarizes with **LLM citations in APA/MLA/Chicago**.
+- ⚙️ Supports semantic search, similarity filtering, and LLM-driven response generation.
 
-## Enefit - Predict Energy Behavior of Prosumers (Ongoing) 🍀💡
-  • The project aims to address Enefit’s energy production and consumption forecast problem.<br>
-  • The project involves utilizing **Apache Hadoop**, **Apache Spark**, **Docker**, **Kubernetes**, **Flask** and **auto-regressive time-series forecasting**.<br>
+---
 
-## Factors Affecting Survivability In Japanese Quail (Coturnix coturnix Japonica) 🐥❤
-  • The study aims to develop statistical risk models to predict survivability and adaptability traits, life-span forecasting, estimating the effect of genetic and environmental factors, and estimating genetic parameters.<br>
-  • The study involves utilizing **hypothesis testing**, **auto-regressive time-series forecasting** and **statistical learning models**.<br>
-  • The study has provided insights into the survival abilities of more than **64,000** species.
+### 🐶 Cat-Dog Classifier App
+A deep learning app for pet image classification.
+- 🧠 Built using **MobileNet, VGG16, ResNet50**.
+- 🎯 Achieved **97.14% accuracy**.
+- 🧪 Deployed with **Streamlit**, tracked with **MLflow**.
 
-# 💻 Tech Stack:
+---
+
+### 🕵🏻 Apache vs The Fraudster
+Big data-powered fraud detection system.
+- 🔍 Built on **Apache Hadoop**, **Spark**, and **Hive**.
+- 🧮 Achieved **78.8% recall** and **90.0% precision**.
+- 🖥️ Built on **Linux/Unix distributed systems**.
+
+---
+
+### 📊 Scaling, Depth & Epochs – ANN Model Comparison
+Experimental study on training efficiency and prediction performance of deep networks.
+- 📉 Reduced MAE by **93.2%** and stabilized weight variance by **92.9%**.
+- 🔧 Tools: **TensorFlow**, **Scikit-Learn**.
+
+---
+
+### 💡 Enefit – Energy Forecasting for Prosumers (Ongoing)
+Time-series forecasting for green energy systems.
+- 🛠️ Tools: **Hadoop, Spark, Docker, Flask, Kubernetes**.
+- 📈 Built on **auto-regressive** forecasting models.
+
+---
+
+### 🐥 Survivability Analysis in Japanese Quail
+Conducted statistical modeling project to explain survivability and adaptability traits of 64,000+ animal species.
+- 📈 Built **risk prediction**, **life-span models**, and **genetic survival estimations**.
+- 🧪 Methods: t-test, ANOVA, REML, MCMC, clustering, regression.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
-</picture>
+**Big Data & Cloud**  
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**DevOps & Tracking**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Databases & Querying**  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
+![HiveQL](https://img.shields.io/badge/HiveQL-FFA500?style=flat-square&logo=apachehive&logoColor=black)
+
+**Other**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23121011.svg?style=flat-square&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ardakaymaz/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kymzarda@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ardakaymaz.github.io/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
