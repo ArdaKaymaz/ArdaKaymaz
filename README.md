@@ -26,6 +26,14 @@ An academic assistant powered by RAG and Gemini 2.5 Flash LLM.
 
 ---
 
+### 💰 FinTech Prophet – Smart AI Agent for Stock Market (Ongoing)
+An intelligent AI-driven application for financial market forecasting and personalized investment strategies.
+- 📈 Performs **market trend analysis**, **stock performance prediction**, and **portfolio recommendation**.
+- 🧠 Built using **Transformers**, **SentenceTransformer**, **Hugging Face**, **TensorFlow**, **Keras**, and **Prophet**.
+- 🔍 Delivers insights based on **individual risk preferences**.
+
+---
+
 ### 🐶 Cat-Dog Classifier App
 A deep learning app for pet image classification.
 - 🧠 Built using **MobileNet, VGG16, ResNet50**.
@@ -46,13 +54,6 @@ Big data-powered fraud detection system.
 Experimental study on training efficiency and prediction performance of deep networks.
 - 📉 Reduced MAE by **93.2%** and stabilized weight variance by **92.9%**.
 - 🔧 Tools: **TensorFlow**, **Scikit-Learn**.
-
----
-
-### 💡 Enefit – Energy Forecasting for Prosumers (Ongoing)
-Time-series forecasting for green energy systems.
-- 🛠️ Tools: **Hadoop, Spark, Docker, Flask, Kubernetes**.
-- 📈 Built on **auto-regressive** forecasting models.
 
 ---
 
@@ -91,7 +92,6 @@ Conducted statistical modeling project to explain survivability and adaptability
 **Other**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23121011.svg?style=flat-square&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 ---
 
